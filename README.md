@@ -1,7 +1,9 @@
 # @tetherto/wdk-backup-cloud-react-native
 
-Production-grade cloud backup SDK for Expo / React Native wallet apps.  
+Cloud backup SDK for Expo / React Native wallet apps built with WDK (Wallet Development Kit) by Tether.
 Stores an encrypted master key in **Google Drive** (appDataFolder) or **iCloud** via a clean provider abstraction.
+
+See the [general WDK documentation](https://docs.wdk.tether.io/).
 
 ---
 
